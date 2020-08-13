@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.9e570729.chunk.css",
-    "main.js": "./static/js/main.d9764284.chunk.js",
+    "main.js": "./static/js/main.49b0a822.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.f63e6028.js",
-    "static/js/2.18f066db.chunk.js": "./static/js/2.18f066db.chunk.js",
+    "static/js/2.2c4f6382.chunk.js": "./static/js/2.2c4f6382.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.a851df24d12772e5186864b0cb1d9d4f.js": "./precache-manifest.a851df24d12772e5186864b0cb1d9d4f.js",
+    "precache-manifest.61f96cef047de43c3512dacda9b29daf.js": "./precache-manifest.61f96cef047de43c3512dacda9b29daf.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.18f066db.chunk.js.LICENSE.txt": "./static/js/2.18f066db.chunk.js.LICENSE.txt",
+    "static/js/2.2c4f6382.chunk.js.LICENSE.txt": "./static/js/2.2c4f6382.chunk.js.LICENSE.txt",
     "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
     "static/media/bitcoin.svg": "./static/media/bitcoin.c208548d.svg",
     "static/media/community.svg": "./static/media/community.ce3c92c2.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f63e6028.js",
-    "static/js/2.18f066db.chunk.js",
+    "static/js/2.2c4f6382.chunk.js",
     "static/css/main.9e570729.chunk.css",
-    "static/js/main.d9764284.chunk.js"
+    "static/js/main.49b0a822.chunk.js"
   ]
 }
