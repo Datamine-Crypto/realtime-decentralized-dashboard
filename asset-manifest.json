@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.9e570729.chunk.css",
-    "main.js": "./static/js/main.a20556a4.chunk.js",
+    "main.js": "./static/js/main.c047fa61.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.f63e6028.js",
-    "static/js/2.7c76521a.chunk.js": "./static/js/2.7c76521a.chunk.js",
+    "static/js/2.5a9318bd.chunk.js": "./static/js/2.5a9318bd.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.22836553d99e8e0f51189b8bd114dad7.js": "./precache-manifest.22836553d99e8e0f51189b8bd114dad7.js",
+    "precache-manifest.bcde461bd9758491311ec6ab1ff9499f.js": "./precache-manifest.bcde461bd9758491311ec6ab1ff9499f.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.7c76521a.chunk.js.LICENSE.txt": "./static/js/2.7c76521a.chunk.js.LICENSE.txt",
+    "static/js/2.5a9318bd.chunk.js.LICENSE.txt": "./static/js/2.5a9318bd.chunk.js.LICENSE.txt",
     "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
     "static/media/bitcoin.svg": "./static/media/bitcoin.c208548d.svg",
     "static/media/community.svg": "./static/media/community.ce3c92c2.svg",
@@ -20,12 +20,13 @@
     "static/media/pool.svg": "./static/media/pool.1364b53f.svg",
     "static/media/smartContract.svg": "./static/media/smartContract.b865f774.svg",
     "static/media/synergy.svg": "./static/media/synergy.662e1abc.svg",
-    "static/media/uniswap.svg": "./static/media/uniswap.a7241cd9.svg"
+    "static/media/uniswap.svg": "./static/media/uniswap.a7241cd9.svg",
+    "static/media/walletconnect.svg": "./static/media/walletconnect.26afecf0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f63e6028.js",
-    "static/js/2.7c76521a.chunk.js",
+    "static/js/2.5a9318bd.chunk.js",
     "static/css/main.9e570729.chunk.css",
-    "static/js/main.a20556a4.chunk.js"
+    "static/js/main.c047fa61.chunk.js"
   ]
 }
