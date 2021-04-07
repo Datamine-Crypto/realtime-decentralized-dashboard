@@ -18,7 +18,7 @@ _FLUX Token Burn Bonus:_
 
 The value of FLUX originates from borrowing a portion of the worldwide FLUX mint rate when burning FLUX.
 
-**10x Burn Bonus**: If you burn 9x the global average of burned FLUX,  you will get 10x the mint rate. This is a global number that is based on how much DAM is currently locked-in and how much FLUX these locked-in addresses have burned. **In other words: (All the FLUX I've ever burned / my DAM locked-in) must be 9 times greater than (global burned FLUX of only users that are currently locked-in / global DAM locked-in). **
+**10x Burn Bonus**: If you burn 9x the global average of burned FLUX,  you will get 10x the mint rate. This is a global number that is based on how much DAM is currently locked-in and how much FLUX these locked-in addresses have burned. **In other words: (All the FLUX I've ever burned / my DAM locked-in) must be 9 times greater than (global burned FLUX of only users that are currently locked-in / global DAM locked-in).**
 
 FLUX burned to an address is permanent for that address. 
 

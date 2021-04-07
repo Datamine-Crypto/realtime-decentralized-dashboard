@@ -1,7 +1,7 @@
 **Datamine Network** is a gateway into next-gen Deflationary Monetary System that is OWNERLESS, IMMUTABLE, AUDITED and ran completely by the community. Our Ethereum smart contracts form Base Currencies of DeFi.
 
-![Our Use Case: Transaction-incentivized Liquidity Pool](helpArticles/assets/images/svgs/synergy.svg#_className=rightIcon)
-# Our Use Case: Transaction-incentivized Liquidity Pool
+![Our Use Case: Transaction-incentivized Liquidity Pools](helpArticles/assets/images/svgs/synergy.svg#_className=rightIcon)
+# Our Use Case: Transaction-incentivized Liquidity Pools
 DAM and FLUX are dual interconnected tokens that offer unique incentives for providing liquidity on Uniswap & Balancer pools. Our core on-chain use case ensures constant movement of tokens through any liquidity pool.
 
 Datamine (DAM) tokens have fixed supply to form high volatility pool. Over 70% of lifetime DAM supply is locked-up in the FLUX minting smart contract. Constant demand to lock-up more DAM creates on-chain velocity.
