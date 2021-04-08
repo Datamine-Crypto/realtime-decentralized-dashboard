@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "974cba7736dd24196a5ad7a4795075b3",
+    "revision": "735b0ff8e873a8057dced625d7a94501",
     "url": "./index.html"
   },
   {
-    "revision": "3a33e9768f0dcec026b7",
+    "revision": "844d9ff61f4f420668ae",
     "url": "./static/css/main.9e570729.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.9a276297.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a33e9768f0dcec026b7",
-    "url": "./static/js/main.bc1a3563.chunk.js"
+    "revision": "844d9ff61f4f420668ae",
+    "url": "./static/js/main.0ffaedb5.chunk.js"
   },
   {
     "revision": "f35dbb30bb93cebd5c82",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/discord.40a0cbab.svg"
   },
   {
-    "revision": "6a9b92b1e5a31f5a92b3e2aeb4f96bd1",
-    "url": "./static/media/ecosystem.6a9b92b1.svg"
+    "revision": "03d8377644c1b30dd47a7045bac43bf3",
+    "url": "./static/media/ecosystem.03d83776.svg"
   },
   {
     "revision": "67a1807e4da45bbc21dd5042336ffcf9",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/metamask.d2e982e8.svg"
   },
   {
-    "revision": "1364b53f52382c97848a05eb27c0dd73",
-    "url": "./static/media/pool.1364b53f.svg"
+    "revision": "a47cbf335511f4c926845eefe57622a1",
+    "url": "./static/media/pool.a47cbf33.svg"
   },
   {
     "revision": "b865f774286e51b90dc1ed4e20adf347",
