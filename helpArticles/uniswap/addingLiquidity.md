@@ -2,7 +2,7 @@ You'll find some very helpful information on this page. You will see the **Poole
 
 Liquidity providers receive a fee from users who conduct swaps. 
 
-The Uniswap platform charges a 0.25% flat fee when users trade (aka swap) ERC 20 tokens. Liquidity providers get a proportional share of these transaction fees based on the amount of liquidity provided. Fees are distributed among liquidity providers proportional to their contribution. They can be collected at any time, but are automatically reused in the liquidity pools until they are collected. You will earn a bit of DAM and ETH per swap transaction. 
+The Uniswap platform charges a 1.00% flat fee when users trade (aka swap) ERC 20 tokens. Liquidity providers get a proportional share of these transaction fees based on the amount of liquidity provided. Fees are distributed among liquidity providers proportional to their contribution. They can be collected at any time, but are automatically reused in the liquidity pools until they are collected. You will earn a bit of DAM and ETH per swap transaction. 
 
 When somebody wants to trade DAM to Ethereum on Uniswap, your liquidity token is used. So, your balance may shift more towards Ethereum, or it may shift more towards DAM based on the trades. So, if somebody wants to sell DAM and take Ethereum out, your Ethereum liquidity might shrink, and your DAM liquidity might go up. It is a dynamic process.
 
@@ -54,7 +54,7 @@ You can then see your pooled Liquidity by visiting: [uniswap.exchange/pool](http
 
 ![Uniswap](helpArticles/assets/images/pngs/uniswap/uniswap17.png#_maxWidth=512)
 
-You can add or remove your pooled ETH/DAM token(s) anytime you wish. Congratulations, you are now a **Uniswap liquidity provider**, and will **passively earn exchange fees (0.25%)** for every single swap transaction that involves DAM. How cool is that. For more information on becoming a liquidity provider, see Step 8. 
+You can add or remove your pooled ETH/DAM token(s) anytime you wish. Congratulations, you are now a **Uniswap liquidity provider**, and will **passively earn exchange fees (1.00%)** for every single swap transaction that involves DAM. How cool is that. For more information on becoming a liquidity provider, see Step 8. 
 
 # Step 4
 

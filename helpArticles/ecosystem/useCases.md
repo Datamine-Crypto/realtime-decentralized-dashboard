@@ -8,7 +8,7 @@ In essense we're trying to create on-chain demand through a FLUX burning mechani
 
 Our Ecosystem offers two incentivized liquidity pools both of which incentivize transaction throughput (instead of monetary incentives).
 
-As adoption grows these liquidity pool incentives will only get better as Uniswap pool holders get 0.25% of each transaction through the pool.
+As adoption grows these liquidity pool incentives will only get better as Uniswap pool holders get 1.00% of each transaction through the pool.
 
 ![Use Case](helpArticles/assets/images/pngs/usecase.png)
 
