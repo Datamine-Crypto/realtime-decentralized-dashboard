@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.9e570729.chunk.css",
-    "main.js": "./static/js/main.a0923f2f.chunk.js",
+    "main.js": "./static/js/main.b8ee69f2.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.f63e6028.js",
     "static/js/2.95599d85.chunk.js": "./static/js/2.95599d85.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.adc2030666573ed1fdae51ea5d8cda62.js": "./precache-manifest.adc2030666573ed1fdae51ea5d8cda62.js",
+    "precache-manifest.73a3b27f193252a247c2a12f0ac67d26.js": "./precache-manifest.73a3b27f193252a247c2a12f0ac67d26.js",
     "service-worker.js": "./service-worker.js",
     "static/js/2.95599d85.chunk.js.LICENSE.txt": "./static/js/2.95599d85.chunk.js.LICENSE.txt",
     "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
@@ -18,7 +18,7 @@
     "static/media/logo.svg": "./static/media/logo.76cced10.svg",
     "static/media/medium.svg": "./static/media/medium.9d6d7b7d.svg",
     "static/media/metamask.svg": "./static/media/metamask.d2e982e8.svg",
-    "static/media/pool.svg": "./static/media/pool.a47cbf33.svg",
+    "static/media/pool.svg": "./static/media/pool.6bd2e35d.svg",
     "static/media/smartContract.svg": "./static/media/smartContract.b865f774.svg",
     "static/media/synergy.svg": "./static/media/synergy.662e1abc.svg",
     "static/media/uniswap.svg": "./static/media/uniswap.a7241cd9.svg",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.f63e6028.js",
     "static/js/2.95599d85.chunk.js",
     "static/css/main.9e570729.chunk.css",
-    "static/js/main.a0923f2f.chunk.js"
+    "static/js/main.b8ee69f2.chunk.js"
   ]
 }
