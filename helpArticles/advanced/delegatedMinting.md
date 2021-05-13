@@ -8,7 +8,7 @@ You can choose any delegated address that will recognize FLUX token and is compa
 
 Click Lock-In.
 
-![Delegated Minting](helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting1.png)
+![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting1.png)
 
 # Step 2. 
 At the next screen, enter the total DAM tokens you would like to lock. Then select the following Minting Address option:
@@ -17,29 +17,29 @@ At the next screen, enter the total DAM tokens you would like to lock. Then sele
 
 Be sure to enter the Ethereum address that will mint your FLUX (e.g. your friend's Ethereum address). 
 
-![Delegated Minting](helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting2.png#_maxWidth=512)
+![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting2.png#_maxWidth=512)
 
 # Step 3. 
 Confirm the transaction in your MetaMask account. 
 
-![Delegated Minting](helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting3.png#_maxWidth=512)
+![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting3.png#_maxWidth=512)
 
 # Step 4. 
 Depending on your network Gas fee, you will see your transaction change from Pending --> Confirmed after several seconds or a few minutes.
 
-![Delegated Minting](helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting4.png#_maxWidth=512)
+![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting4.png#_maxWidth=512)
 
-![Delegated Minting](helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting5.png#_maxWidth=512)
+![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting5.png#_maxWidth=512)
 
 # Step 5. 
 Go to the **Address Balances** section of your Dashboard. 
 If you hover your mouse **over your address in the top right corner**, your address-specific dashboard URL will be displayed. Notice in the lower right-hand corner you can also see the Minter Address. 
 
-![Delegated Minting](helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting6.png)
+![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting6.png)
 
 Here is a closer look at the **address-specific dashboard link (URL)**.
 
-![Delegated Minting](helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting7.png#_maxWidth=512)
+![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting7.png#_maxWidth=512)
 
 In order to mint FLUX using a Minter Address, it is important that you know your address-specific dashboard URL.
 Visiting your dashboard-specific URL from a Minter Address MetaMask account will allow you to mint FLUX on behalf of your original lock-in address.

@@ -10,7 +10,7 @@ Our Ecosystem offers two incentivized liquidity pools both of which incentivize 
 
 As adoption grows these liquidity pool incentives will only get better as Uniswap pool holders get 1.00% of each transaction through the pool.
 
-![Use Case](helpArticles/assets/images/pngs/usecase.png)
+![Use Case](../../helpArticles/assets/images/pngs/usecase.png)
 
 # Datamine Use Case: Supply vs Demand
 
