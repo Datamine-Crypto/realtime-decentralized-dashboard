@@ -1,4 +1,4 @@
-**Datamine Network** is a gateway into next-gen Deflationary Monetary System that is OWNERLESS, IMMUTABLE, AUDITED and ran completely by the community. Our Ethereum smart contracts form Base Currencies of DeFi.
+**Datamine Network** is a portal into your own Decentralized Mint. Our Ethereum smart contracts form Base Currencies of DeFi.
 
 ![Our Use Case: Transaction-incentivized Liquidity Pools](../helpArticles/assets/images/svgs/synergy.svg#_className=rightIcon)
 # Our Use Case: Transaction-incentivized Liquidity Pools
