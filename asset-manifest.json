@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.70bb0c79.chunk.css",
-    "main.js": "./static/js/main.f0317bc7.chunk.js",
+    "main.js": "./static/js/main.e878c50f.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.8b0ae790.js",
-    "static/js/2.95eca86d.chunk.js": "./static/js/2.95eca86d.chunk.js",
+    "static/js/2.4e5e1cb1.chunk.js": "./static/js/2.4e5e1cb1.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.1af0ef46833f88401d9099369b32c599.js": "./precache-manifest.1af0ef46833f88401d9099369b32c599.js",
+    "precache-manifest.d17a4ea377f5b88166c8b10089dba3d1.js": "./precache-manifest.d17a4ea377f5b88166c8b10089dba3d1.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.95eca86d.chunk.js.LICENSE.txt": "./static/js/2.95eca86d.chunk.js.LICENSE.txt",
+    "static/js/2.4e5e1cb1.chunk.js.LICENSE.txt": "./static/js/2.4e5e1cb1.chunk.js.LICENSE.txt",
     "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
     "static/media/bitcoin.svg": "./static/media/bitcoin.c208548d.svg",
     "static/media/community.svg": "./static/media/community.ce3c92c2.svg",
     "static/media/discord.svg": "./static/media/discord.40a0cbab.svg",
+    "static/media/discordWhite.svg": "./static/media/discordWhite.792c98c9.svg",
     "static/media/ecosystem.svg": "./static/media/ecosystem.f7a45e0e.svg",
     "static/media/fluxLogo.svg": "./static/media/fluxLogo.67a1807e.svg",
     "static/media/lock.svg": "./static/media/lock.0a6b20ed.svg",
@@ -26,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8b0ae790.js",
-    "static/js/2.95eca86d.chunk.js",
+    "static/js/2.4e5e1cb1.chunk.js",
     "static/css/main.70bb0c79.chunk.css",
-    "static/js/main.f0317bc7.chunk.js"
+    "static/js/main.e878c50f.chunk.js"
   ]
 }
