@@ -23,4 +23,4 @@ Please follow directions in MetaMask window to continue. **Remember to set GAS F
 
 **Congratulations, you have successfully re-invested your Dividends by burning FLUX Tokens!**
 
-**The amount of FLUX burned is PERMANENT and stays associated with your Ehtereum address FOREVER.** That means unlocking your Datamine (DAM) tokens will not reset your FLUX burned amount.
+**The amount of FLUX burned is PERMANENT and stays associated with your Ehtereum address FOREVER.** That means stopping your mint will not reset your FLUX burned amount.

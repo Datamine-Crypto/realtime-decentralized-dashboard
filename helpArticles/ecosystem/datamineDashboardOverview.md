@@ -1,4 +1,4 @@
-[The Datamine Dashboard](https://datamine-crypto.github.io/realtime-decentralized-dashboard/) is a feature-rich user interface and all-in-one realtime powerhouse of data. Get all your $DAM, $FLUX, $ETH, & $USDC analytics points from on-chain data in a single place instantly. The dashboard is where you can lock in DAM tokens or mint and burn FLUX tokens. 
+[The Datamine Dashboard](https://datamine-crypto.github.io/realtime-decentralized-dashboard/) is a feature-rich user interface and all-in-one realtime powerhouse of data. Get all your $DAM, $FLUX, $ETH, & $USDC analytics points from on-chain data in a single place instantly. The dashboard is where you can start your mint and produce/destroy FLUX tokens.
 
 ### 💡 Watch your $FLUX USDC balance increase on real-time, on-chain USDC multi-route Uniswap data.
 We've taken all the complications and calculations away. See your unminted FLUX tokens balance in realtime based on all your bonuses.
@@ -14,16 +14,16 @@ Using our multi-smart contract mesh, we're able to fetch USDC price and compute 
 ![Dashboard](../../helpArticles/assets/images/pngs/dashboard/dashboard2.png)
 
 ### 💡 User-specific minting statistics 
-This is where you can check when you last Minted FLUX tokens. Easily calculate the duration of time you need to lock in DAM for to reach your 3x Time Bonus.
+This is where you can check when you last Minted FLUX tokens. Easily calculate the duration of time you need to for your mint to reach your 3x Time Bonus.
 
 ![Dashboard](../../helpArticles/assets/images/pngs/dashboard/dashboard3.png)
 
-### 💡 Realtime portfolio valuation of your DAM lock-in and FLUX address balances in USDC
-Here you can check your FLUX balance with ease and calculate how much FLUX you have burned. You will also appreciate the displayed value of your locked-in DAM tokens in USDC.
+### 💡 Realtime portfolio valuation of your mint and FLUX address balances in USDC
+Here you can check your FLUX balance with ease and calculate how much FLUX you have burned. You will also appreciate the displayed value of your mint size in USDC.
 
 ![Dashboard](../../helpArticles/assets/images/pngs/dashboard/dashboard4.png)
 
-### 💡 Global value of locked-in DAM tokens in USDC.
-Visit this section to verify the current FLUX supply and determine what percentage of minted FLUX has been burned globally. Here you will also see the global value of locked in DAM tokens in USDC.
+### 💡 Global value of active mints in USDC.
+Visit this section to verify the current FLUX supply and determine what percentage of minted FLUX has been burned globally. Here you will also see the global value of active mints in USDC.
 
 ![Dashboard](../../helpArticles/assets/images/pngs/dashboard/dashboard5.png)

@@ -2,16 +2,16 @@ Delegated minting permits you to select another Ethereum wallet address to Mint 
 
 This allows you to keep DAM tokens offline in cold storage while using a web-based wallet to mint your FLUX tokens.  
 
-You can choose any delegated address that will recognize FLUX token and is compatible with MetaMask. For example, you can lock-in DAM tokens and give your friend permission to mint your FLUX balance directly to their Ethereum address.
+You can choose any delegated address that will recognize FLUX token and is compatible with MetaMask. For example, you can start a mint give your friend permission to mint your FLUX balance directly to their Ethereum address.
 
 # Step 1.
 
-Click Lock-In.
+Click Start Mint.
 
 ![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting1.png)
 
 # Step 2. 
-At the next screen, enter the total DAM tokens you would like to lock. Then select the following Minting Address option:
+At the next screen, enter the total DAM tokens you would like to start your mint with. Then select the following Minting Address option:
 
 **"I want another address to mint FLUX on my behalf (Delegated Minter)"**
 
@@ -42,15 +42,15 @@ Here is a closer look at the **address-specific dashboard link (URL)**.
 ![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting7.png#_maxWidth=512)
 
 In order to mint FLUX using a Minter Address, it is important that you know your address-specific dashboard URL.
-Visiting your dashboard-specific URL from a Minter Address MetaMask account will allow you to mint FLUX on behalf of your original lock-in address.
+Visiting your dashboard-specific URL from a Minter Address MetaMask account will allow you to mint FLUX on behalf of your original mint address.
 
 **In Summary:**
-1) DAM can be locked inside "address A" while "address B" is specified as the delegated minter. 
+1) Datamine mint can be started inside "address A" while "address B" is specified as the delegated minter. 
 2) Visit the "address A" dashboard-specific URL from "address B" to MINT FLUX.
 
 **My "MINT" Button is greyed out with the following tooltip: "Select the Delegated Minter Address account in your wallet to mint for this address."**
 
-AddressA = DAM Lock-in
+AddressA = Started Mint
 
 AddressB = Delegated Minter
 

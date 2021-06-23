@@ -14,11 +14,11 @@ As adoption grows these liquidity pool incentives will only get better as Uniswa
 
 # Datamine Use Case: Supply vs Demand
 
-The only way to generate FLUX tokens is to lock-in Datamine (DAM) tokens. DAM tokens are generally purchased through the liquidity pool such as Uniswap or Balancer. Due to the high lock-in percentage of Datamine (DAM) tokens there is a very small percentage of tokens available for purchase on the market.
+The only way to generate FLUX tokens is to start a mint using Datamine (DAM) tokens. DAM tokens are generally purchased through the liquidity pool such as Uniswap or Balancer. Due to the high percentage of Datamine (DAM) tokens being used by mints there is a very small percentage of tokens available for purchase on the market.
 
-Due to the fixed-supply nature of Datamine (DAM) tokens the FLUX minting is capped, linear and predictable. This constant need to lock-in more DAM tokens generates demand in the liquidity pool. Datamine (DAM) tokens are "long term hold" tokens meant to be locked-in on a hardware wallet like Ledger Nano S.
+Due to the fixed-supply nature of Datamine (DAM) tokens the FLUX minting is capped, linear and predictable. This constant need to start more global mints generates demand in the liquidity pool. Datamine (DAM) tokens are "long term hold" tokens meant for starting a mint on a hardware wallet like Ledger Nano S.
 
-Demand for Datamine (DAM) tokens is visible in realtime on our analytics dashboard in form of "Total DAM Locked-in %". If this number is ABOVE 50% that means the majority of the market is not willing to sell at the current prices.
+Demand for Datamine (DAM) tokens is visible in realtime on our analytics dashboard in form of "DAM Powring Mints". If this number is ABOVE 50% that means the majority of the market is not willing to sell at the current prices.
 
-Common visible pattern of market demand includes unlocking & re-locking a higher amount of DAM. FLUX liquidity pool promotes **Burn Cycles** where FLUX is bought, burned and then re-sold in the liquidity pool.
+Common visible pattern of market demand includes restarting a mint with a higher amount of DAM. FLUX liquidity pool promotes **Burn Cycles** where FLUX is bought, burned and then re-sold in the liquidity pool.
 
