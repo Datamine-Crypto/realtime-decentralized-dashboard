@@ -6,8 +6,6 @@ You will find the STOP MINT button in your Dashboard Section: Address Balances.
 
 ![Restart](../../helpArticles/assets/images/pngs/lockinMoreDatamineTokens/relock1.png)
 
-![Restart](../../helpArticles/assets/images/pngs/lockinMoreDatamineTokens/relock2.png#_maxWidth=512)
-
 Step 2.
 After pressing STOP MINT, you will see the following confirmation screen:
 ![Restart](../../helpArticles/assets/images/pngs/lockinMoreDatamineTokens/relock3.png#_maxWidth=512)
