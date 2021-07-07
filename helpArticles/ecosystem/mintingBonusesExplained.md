@@ -14,7 +14,7 @@ The maximum Mint bonus you can achieve for starting a mint is 3x.  Once you have
 
 **3x Time Bonus**: After you leave a mint started for at least 24 hours, you will start receiving a small mint multiplier every 15 seconds. This lasts for 28 days after which you gain a **permanent** (until you stop your mint) 3x bonus to your FLUX mints.
 
-_FLUX Token Burn Bonus:_
+_FLUX Burn Multiplier:_
 
 The value of FLUX originates from borrowing a portion of the worldwide FLUX mint rate when burning FLUX.
 
@@ -26,7 +26,7 @@ As more people burn FLUX, the amount of FLUX tokens you need to burn increases, 
 
 After you BURN some FLUX, you will see an updated BURN bonus in your dashboard.
 
-The two bonuses (Started Mint Time Bonus and FLUX Token BURN Bonus) are multiplicative. So you can get up to **30x FLUX minting rate at the time of pressing MINT**. It is suggested to get max 30x mint rate at time of minting FLUX, so this means you will most likely buy some FLUX first and burn it to your address if you are not at max multiplier yet before minting your FLUX. 
+The two bonuses (Started Mint Time Bonus and FLUX Burn Multiplier) are multiplicative. So you can get up to **30x FLUX minting rate at the time of pressing MINT**. It is suggested to get max 30x mint rate at time of minting FLUX, so this means you will most likely buy some FLUX first and burn it to your address if you are not at max multiplier yet before minting your FLUX. 
 
 **The most efficient way to mint FLUX at any time is:**
 
