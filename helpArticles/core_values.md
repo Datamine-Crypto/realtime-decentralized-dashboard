@@ -1,4 +1,4 @@
-**Datamine Network** is a portal into your own Decentralized Mint. Our Audited Ethereum smart contracts form Base Currencies of DeFi.
+**Datamine Network** is a portal into your own Decentralized L1 & L2 Mint. Our Audited Ethereum smart contracts form Base Currencies of DeFi.
 
 ![Our Use Case: Transaction-incentivized Liquidity Pools](../helpArticles/assets/images/svgs/synergy.svg#_className=rightIcon)
 # Our Use Case: Transaction-incentivized Liquidity Pools
