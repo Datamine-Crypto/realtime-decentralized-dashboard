@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.9e570729.chunk.css",
-    "main.js": "./static/js/main.c7fa6d58.chunk.js",
+    "main.js": "./static/js/main.059ddfa1.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.8b0ae790.js",
-    "static/js/2.4f616eed.chunk.js": "./static/js/2.4f616eed.chunk.js",
+    "static/js/2.a4a707e0.chunk.js": "./static/js/2.a4a707e0.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.0e56eaac2e2496e82dc10b472b6ffb13.js": "./precache-manifest.0e56eaac2e2496e82dc10b472b6ffb13.js",
+    "precache-manifest.fd94bf3b10325465af92656d6bb5a77c.js": "./precache-manifest.fd94bf3b10325465af92656d6bb5a77c.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.4f616eed.chunk.js.LICENSE.txt": "./static/js/2.4f616eed.chunk.js.LICENSE.txt",
+    "static/js/2.a4a707e0.chunk.js.LICENSE.txt": "./static/js/2.a4a707e0.chunk.js.LICENSE.txt",
     "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
     "static/media/arbiFluxLogo.svg": "./static/media/arbiFluxLogo.0a0302cb.svg",
     "static/media/arbitrum.svg": "./static/media/arbitrum.e65e536f.svg",
@@ -23,6 +23,7 @@
     "static/media/logo.svg": "./static/media/logo.76cced10.svg",
     "static/media/medium.svg": "./static/media/medium.9d6d7b7d.svg",
     "static/media/metamask.svg": "./static/media/metamask.d2e982e8.svg",
+    "static/media/oneInch.svg": "./static/media/oneInch.45f53cb9.svg",
     "static/media/pool.svg": "./static/media/pool.0e0cf05f.svg",
     "static/media/poolL2.svg": "./static/media/poolL2.a25c64c1.svg",
     "static/media/smartContract.svg": "./static/media/smartContract.b865f774.svg",
@@ -33,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8b0ae790.js",
-    "static/js/2.4f616eed.chunk.js",
+    "static/js/2.a4a707e0.chunk.js",
     "static/css/main.9e570729.chunk.css",
-    "static/js/main.c7fa6d58.chunk.js"
+    "static/js/main.059ddfa1.chunk.js"
   ]
 }
