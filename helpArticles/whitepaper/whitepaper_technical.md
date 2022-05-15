@@ -703,7 +703,7 @@ In this section there are no state changes so these functions are all view-only 
 
 ### getMintAmount()
 
-Let's take a look at how we calculate how much FLUX to mint for an address that has Datamine (DAM) tokens locked-in. The returned number is the total amount of FLUX that would be minted if the current address performs a mint:
+Let's take a look at how we calculate how much FLUX to mint for an address that has Datamine (DAM) tokens locked-in. The returned number is the total amount of FLUX that would be minted if the current address performs a validator:
 
 ```Solidity
 /**

@@ -1,4 +1,4 @@
-Burning FLUX increases burn mutliplier **at time of minting FLUX**. Your mint can receive up FLUX tokens up to 10x faster by burning 9x the global burned average. The number of FLUX required to burn to get to these multipliers is available on our dashboard.
+Burning FLUX increases burn mutliplier **at time of minting FLUX**. Your validator can receive up FLUX tokens up to 10x faster by burning 9x the global burned average. The number of FLUX required to burn to get to these multipliers is available on our dashboard.
 
 Minting and burning are smart contract actions that incur a small gas fee. If your wallet contains FLUX tokens, you will see the "BURN FLUX" button. 
 
@@ -25,4 +25,4 @@ Please follow directions in MetaMask window to continue. **Remember to set GAS F
 
 **Congratulations, you have successfully increased your burn multiplier!**
 
-**The amount of FLUX burned is PERMANENT and stays associated with your Ehtereum address FOREVER.** That means stopping your mint will not reset your FLUX burned amount.
+**The amount of FLUX burned is PERMANENT and stays associated with your Ehtereum address FOREVER.** That means stopping your validator will not reset your FLUX burned amount.

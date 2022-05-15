@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5dfc489d93c2ab60f3da4843f371438",
+    "revision": "a30b626aeb87e24e310e8b8f91052186",
     "url": "./index.html"
   },
   {
-    "revision": "eeaa08ed4530abb705bf",
+    "revision": "8cba8a0b39d51e311b8e",
     "url": "./static/css/main.ea63ff56.chunk.css"
   },
   {
-    "revision": "9c52c62e6fdb72e20436",
-    "url": "./static/js/2.80b346e8.chunk.js"
+    "revision": "107cb188873dd29b3f79",
+    "url": "./static/js/2.48111332.chunk.js"
   },
   {
     "revision": "86231e45a148b4d74ea9db7fa1ff483e",
-    "url": "./static/js/2.80b346e8.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.48111332.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eeaa08ed4530abb705bf",
-    "url": "./static/js/main.425a1d8e.chunk.js"
+    "revision": "8cba8a0b39d51e311b8e",
+    "url": "./static/js/main.5f994d4e.chunk.js"
   },
   {
     "revision": "d90c5b93796701d5570a",
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/discordWhite.792c98c9.svg"
   },
   {
-    "revision": "61cdc79d60bcde225af4055f7a95d9aa",
-    "url": "./static/media/ecosystem.61cdc79d.svg"
+    "revision": "cd6d23aa97452a5d8bd7fe863132b50f",
+    "url": "./static/media/ecosystem.cd6d23aa.svg"
   },
   {
-    "revision": "0b31822bd327d6ccef0ad9a556c636bc",
-    "url": "./static/media/ecosystemL2.0b31822b.svg"
+    "revision": "c026e8ed6917ee2a6b75a8f514f73e15",
+    "url": "./static/media/ecosystemL2.c026e8ed.svg"
   },
   {
     "revision": "95bd9f3efad59aea3bdf55799c8d3efd",
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/oneInch.45f53cb9.svg"
   },
   {
-    "revision": "0e0cf05f25c45a4eb554ebc54da7741b",
-    "url": "./static/media/pool.0e0cf05f.svg"
+    "revision": "fc2b89e1359485efab0d5234ab07a05d",
+    "url": "./static/media/pool.fc2b89e1.svg"
   },
   {
-    "revision": "a25c64c1e16ce448d18c467341d4a059",
-    "url": "./static/media/poolL2.a25c64c1.svg"
+    "revision": "487dd8427edbf25071a36d2379112d51",
+    "url": "./static/media/poolL2.487dd842.svg"
   },
   {
     "revision": "b865f774286e51b90dc1ed4e20adf347",
