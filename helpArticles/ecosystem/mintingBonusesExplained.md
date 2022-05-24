@@ -18,7 +18,7 @@ _FLUX Burn Multiplier:_
 
 The value of FLUX originates from borrowing a portion of the worldwide FLUX mint rate when burning FLUX.
 
-**10x Burn Bonus**: If you burn 9x the global average of burned FLUX,  you will get 10x the mint rate. This is a global number that is based on how much DAM is currently powring mints and how much FLUX these addresses have burned. **In other words: (All the FLUX I've ever burned / my DAM mint size) must be 9 times greater than (global burned FLUX of active mints / DAM powering active mints).**
+**10x Burn Bonus**: If you burn 9x the global average of burned FLUX,  you will get 10x the mint rate. This is a global number that is based on how much DAM is currently powring mints and how much FLUX these addresses have burned. **In other words: (All the FLUX I've ever burned / my DAM validator size) must be 9 times greater than (global burned FLUX of active mints / DAM powering active mints).**
 
 FLUX burned to an address is permanent for that address. 
 

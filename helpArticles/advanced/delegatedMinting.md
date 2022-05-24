@@ -6,7 +6,7 @@ You can choose any delegated address that will recognize FLUX token and is compa
 
 # Step 1.
 
-Click Start Mint.
+Click Start Validator.
 
 ![Delegated Minting](../../helpArticles/assets/images/pngs/delegatedMinting/delegatedMinting1.png)
 

@@ -16,15 +16,15 @@ By pressing Enable, Datamine checks your DAM and ETH balances before allowing yo
 
 ## Step 1
 
-You can now begin by clicking the "Start Mint" button. After paying a small gas fee for starting your validator, you will instantly start generating FLUX tokens in your dashboard (**with every single block ~ 15 seconds, you generate of 0.00000001 FLUX per 1 DAM in mint**)
+You can now begin by clicking the "Start Validator" button. After paying a small gas fee for starting your validator, you will instantly start generating FLUX tokens in your dashboard (**with every single block ~ 15 seconds, you generate of 0.00000001 FLUX per 1 DAM in validator**)
 
-![Start Mint](../../helpArticles/assets/images/pngs/lockingInDam/lockin3.png)
+![Start Validator](../../helpArticles/assets/images/pngs/lockingInDam/lockin3.png)
 
 ## Step 2
 
 To continue, enter how many DAM tokens you wish to use for your validator. You can stop your validator to get 100% of DAM tokens back at any time.
 
-![Start Mint Dialog](../../helpArticles/assets/images/pngs/lockingInDam/lockin4.png#_maxWidth=512)
+![Start Validator Dialog](../../helpArticles/assets/images/pngs/lockingInDam/lockin4.png#_maxWidth=512)
 
 ## Step 3
 

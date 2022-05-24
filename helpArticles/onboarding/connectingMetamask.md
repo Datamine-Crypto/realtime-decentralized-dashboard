@@ -1,4 +1,4 @@
-Our smart contracts are fully open source. Damtamine website is a decentralized gateway into the Datamine Ecosystem. The smart contracts on our dApp DO NOT touch your Ethereum balance and only interact with our DAM/FLUX tokens.
+Our smart contracts are fully open source. Datamine website is a decentralized gateway into the Datamine Ecosystem. The smart contracts on our dApp DO NOT touch your Ethereum balance and only interact with our DAM/FLUX tokens.
 
 Please ensure that you have installed and are logged into MetaMask before following the steps below.
 
