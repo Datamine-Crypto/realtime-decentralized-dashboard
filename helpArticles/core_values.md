@@ -18,7 +18,7 @@ With no DAM inflation and controlled FLUX deflation our liquidity pools offer hi
 ![Realtime Multi-Smart Contract Analytics](../helpArticles/assets/images/svgs/analytics.svg#_className=rightIcon)
 # Realtime Multi-Smart Contract Analytics
 Datamine Network is an emerging DeFi dApp leader thanks to our robust, feature-rich decentralized user dashboard that allows anyone to interact with our audited smart contracts.
-Get realtime on-chain market sentiment and see your balances in USDC with our deep Uniswap integration.
+Get realtime on-chain market sentiment and see your balances in USD with our deep Uniswap integration.
 Realtime market cap, balances and instant worldwide Datamine (DAM) / FLUX token analytics at your fingertips.
 
 ![Secure By Design & Professionally Audited](../helpArticles/assets/images/svgs/lock.svg#_className=rightIcon)

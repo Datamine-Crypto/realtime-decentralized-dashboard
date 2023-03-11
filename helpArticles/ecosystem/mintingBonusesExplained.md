@@ -33,7 +33,7 @@ The two bonuses (Started Mint Time Bonus and FLUX Burn Multiplier) are multiplic
 1. Get to 3x time bonus (28 days after starting a validator). 
 2. Before pressing mint, make sure you have 10x burn bonus, if not buy some FLUX and burn to get to 10x.
 
-**Remember, your dashboard bonuses are applied at the time of minting FLUX tokens. You will see an estimate of how much your FLUX (with applied bonuses) is worth based on real, on-chain USDC multi-route Uniswap data.**
+**Remember, your dashboard bonuses are applied at the time of minting FLUX tokens. You will see an estimate of how much your FLUX (with applied bonuses) is worth based on real, on-chain USD multi-route Uniswap data.**
 
 See an example calculation below:
 

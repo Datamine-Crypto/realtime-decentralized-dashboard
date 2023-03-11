@@ -6,7 +6,7 @@ To mint ArbiFLUX tokens you must first start a validator with your FLUX (L2) tok
 
 Now that your validator is started you will instantly start generating FLUX tokens of **0.00000001 ArbiFLUX per 1 FLUX (L2) in mint** ~ every 15 seconds with each block. This means that your ArbiFLUX token balance automatically increases with each block in realtime in your dashboard.
 
-You will see a realtime Unminted ArbiFLUX USDC Balance: an estimate of how much your ArbiFLUX tokens are worth based on real, on-chain USDC multi-route Uniswap data. While these ArbiFLUX tokens are unminted they exist in the smart contract, not your MetaMask account.
+You will see a realtime Unminted ArbiFLUX USD Balance: an estimate of how much your ArbiFLUX tokens are worth based on real, on-chain USD multi-route Uniswap data. While these ArbiFLUX tokens are unminted they exist in the smart contract, not your MetaMask account.
 
 ![Minting](../../helpArticles/assets/images/pngs/mintingFlux/mintingFlux1L2.png)
 
