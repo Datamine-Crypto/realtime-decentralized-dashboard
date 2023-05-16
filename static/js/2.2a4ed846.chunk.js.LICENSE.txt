@@ -25,10 +25,7 @@ object-assign
  * @license  MIT
  */
 
-/*!
- * v2.1.4-104-gc868b3a
- * 
- */
+/*! For license information please see web3.min.js.LICENSE.txt */
 
 /*! https://mths.be/punycode v1.4.1 by @mathias */
 
@@ -41,15 +38,6 @@ object-assign
  *
  * @copyright Oleg Isonen (Slobodskoi) / Isonen 2014-present
  * @website https://github.com/cssinjs/jss
- * @license MIT
- */
-
-/**
- * [js-sha3]{@link https://github.com/emn178/js-sha3}
- *
- * @version 0.5.7
- * @author Chen, Yi-Cyuan [emn178@gmail.com]
- * @copyright Chen, Yi-Cyuan 2015-2016
  * @license MIT
  */
 
