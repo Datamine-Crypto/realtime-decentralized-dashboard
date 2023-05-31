@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e83bf55f39a74cd582b88e0a1954adb",
+    "revision": "c498fbc315fd370b5bf9650cd72df16c",
     "url": "./index.html"
   },
   {
-    "revision": "8c9e0eaceeda4276fbd3",
+    "revision": "b693b805490dd636509d",
     "url": "./static/css/main.92049714.chunk.css"
   },
   {
-    "revision": "26dbb56de5e6a875e4de",
-    "url": "./static/js/2.2a4ed846.chunk.js"
+    "revision": "c4cbe5c2867c7f3402aa",
+    "url": "./static/js/2.4e4b0abe.chunk.js"
   },
   {
     "revision": "9ced88b761794d2f25771693209459a4",
-    "url": "./static/js/2.2a4ed846.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.4e4b0abe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c9e0eaceeda4276fbd3",
-    "url": "./static/js/main.06a52122.chunk.js"
+    "revision": "b693b805490dd636509d",
+    "url": "./static/js/main.49c719d5.chunk.js"
   },
   {
     "revision": "63207fbe366982e18e93",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e65e536f7273b6e034a6a4b0094d97ba",
     "url": "./static/media/arbitrum.e65e536f.svg"
-  },
-  {
-    "revision": "c208548d9e7ac91ecd464b22c01094e4",
-    "url": "./static/media/bitcoin.c208548d.svg"
   },
   {
     "revision": "ce3c92c2e1bc2e7578d7c42791c9b9b8",
