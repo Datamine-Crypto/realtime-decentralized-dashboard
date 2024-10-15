@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.92049714.chunk.css",
-    "main.js": "./static/js/main.2a50388c.chunk.js",
+    "main.js": "./static/js/main.cb61d948.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.9c2a5ade.js",
-    "static/js/2.383cc9c3.chunk.js": "./static/js/2.383cc9c3.chunk.js",
+    "static/js/2.fd2b1f6b.chunk.js": "./static/js/2.fd2b1f6b.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.172eb2810395c52941893e9221ad582d.js": "./precache-manifest.172eb2810395c52941893e9221ad582d.js",
+    "precache-manifest.562628f3fb220383f9b89b0bd98a89fc.js": "./precache-manifest.562628f3fb220383f9b89b0bd98a89fc.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.383cc9c3.chunk.js.LICENSE.txt": "./static/js/2.383cc9c3.chunk.js.LICENSE.txt",
+    "static/js/2.fd2b1f6b.chunk.js.LICENSE.txt": "./static/js/2.fd2b1f6b.chunk.js.LICENSE.txt",
     "static/media/analytics.svg": "./static/media/analytics.21a69adb.svg",
     "static/media/arbiFluxLogo.svg": "./static/media/arbiFluxLogo.0a0302cb.svg",
     "static/media/arbitrum.svg": "./static/media/arbitrum.e65e536f.svg",
@@ -19,10 +19,10 @@
     "static/media/ethereumPurple.svg": "./static/media/ethereumPurple.95bd9f3e.svg",
     "static/media/fluxLogo.svg": "./static/media/fluxLogo.67a1807e.svg",
     "static/media/lock.svg": "./static/media/lock.0a6b20ed.svg",
+    "static/media/lockquidity.svg": "./static/media/lockquidity.5cf19a8b.svg",
     "static/media/logo.svg": "./static/media/logo.76cced10.svg",
     "static/media/medium.svg": "./static/media/medium.9d6d7b7d.svg",
     "static/media/metamask.svg": "./static/media/metamask.d2e982e8.svg",
-    "static/media/oneInch.svg": "./static/media/oneInch.45f53cb9.svg",
     "static/media/pool.svg": "./static/media/pool.fc2b89e1.svg",
     "static/media/poolL2.svg": "./static/media/poolL2.487dd842.svg",
     "static/media/smartContract.svg": "./static/media/smartContract.b865f774.svg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9c2a5ade.js",
-    "static/js/2.383cc9c3.chunk.js",
+    "static/js/2.fd2b1f6b.chunk.js",
     "static/css/main.92049714.chunk.css",
-    "static/js/main.2a50388c.chunk.js"
+    "static/js/main.cb61d948.chunk.js"
   ]
 }
