@@ -1,14 +1,10 @@
 {
   "files": {
     "main.css": "./static/css/main.4015e3a5.css",
-    "main.js": "./static/js/main.6e3ddffd.js",
+    "main.js": "./static/js/main.ef651c6d.js",
     "static/js/348.2853394c.chunk.js": "./static/js/348.2853394c.chunk.js",
     "static/js/541.a096166a.chunk.js": "./static/js/541.a096166a.chunk.js",
-    "static/media/poolL2.svg": "./static/media/poolL2.8b2e289794792224f8de4c92e29ccd4c.svg",
-    "static/media/pool.svg": "./static/media/pool.651e7c46e164d4cfaa0f813de645d49a.svg",
     "service-worker.js": "./service-worker.js",
-    "static/media/ecosystem.svg": "./static/media/ecosystem.ca0c22084209cd637acc9fa4bd4fd1ca.svg",
-    "static/media/ecosystemL2.svg": "./static/media/ecosystemL2.9576d4abd547025aaab210088cb3d39f.svg",
     "static/media/roboto-latin-700-normal.woff2": "./static/media/roboto-latin-700-normal.4535474e1cf8598695ad.woff2",
     "static/media/roboto-latin-500-normal.woff2": "./static/media/roboto-latin-500-normal.7077203b1982951ecf76.woff2",
     "static/media/roboto-latin-400-normal.woff2": "./static/media/roboto-latin-400-normal.297d48e1b5a10c0831a9.woff2",
@@ -63,30 +59,25 @@
     "static/media/sushiSwap.svg": "./static/media/sushiSwap.ff9a7c718735ff0e55edafdb52220ced.svg",
     "index.html": "./index.html",
     "static/media/metamask.svg": "./static/media/metamask.c3b055bcd59892470eaea19936c9b19c.svg",
-    "static/media/analytics.svg": "./static/media/analytics.b843ee6d344b2c38e5b8523cce125c42.svg",
     "static/media/arbitrum.svg": "./static/media/arbitrum.17b74749361c422dafb712543a69ca08.svg",
     "static/media/arbiFluxLogo.svg": "./static/media/arbiFluxLogo.870826c19e9d27068e5a91cb4ee27d63.svg",
     "static/media/fluxLogo.svg": "./static/media/fluxLogo.fdeeb6fa6943d979496f955ac05fec16.svg",
     "static/media/logo.svg": "./static/media/logo.1f5934e79261dee5f82f7821e05095fa.svg",
-    "static/media/smartContract.svg": "./static/media/smartContract.962940816494e5a9593670c7e06578c7.svg",
     "static/media/roboto-greek-ext-500-normal.woff2": "./static/media/roboto-greek-ext-500-normal.4a96ba31abcce0f5d52b.woff2",
     "static/media/roboto-greek-ext-300-normal.woff2": "./static/media/roboto-greek-ext-300-normal.d6049cb54aa6fbe14c42.woff2",
     "static/media/roboto-greek-ext-400-normal.woff2": "./static/media/roboto-greek-ext-400-normal.1df4abad55796d11a0c8.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "./static/media/roboto-greek-ext-700-normal.2dd6febad11502dec6a6.woff2",
-    "static/media/synergy.svg": "./static/media/synergy.194a63815049fcda493d250ac55ecbd5.svg",
-    "static/media/community.svg": "./static/media/community.be6b4702088bcd1c8f4bfc45c638742c.svg",
     "static/media/roboto-greek-ext-500-normal.woff": "./static/media/roboto-greek-ext-500-normal.fd28d9c008bf3af1bed7.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "./static/media/roboto-greek-ext-700-normal.4abdc9fff4507f17d726.woff",
     "static/media/roboto-greek-ext-300-normal.woff": "./static/media/roboto-greek-ext-300-normal.b590dbe5c639944366d1.woff",
     "static/media/roboto-greek-ext-400-normal.woff": "./static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "static/media/discord.svg": "./static/media/discord.d24927ed2ddd53ea1c310ef302af3233.svg",
     "static/media/discordWhite.svg": "./static/media/discordWhite.b360207e6692794bbaeacf0a56560e66.svg",
-    "static/media/lock.svg": "./static/media/lock.030bf719b222fe5248eea3e5fb3ec2bb.svg",
     "static/media/medium.svg": "./static/media/medium.deebf151bb8cc508ade4a69d2fccee82.svg",
     "static/media/ethereumPurple.svg": "./static/media/ethereumPurple.5a5de20bf3808241fc61ed9ad7680ab5.svg"
   },
   "entrypoints": [
     "static/css/main.4015e3a5.css",
-    "static/js/main.6e3ddffd.js"
+    "static/js/main.ef651c6d.js"
   ]
 }
