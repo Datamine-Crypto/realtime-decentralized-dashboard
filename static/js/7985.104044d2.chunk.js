@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdatamine_network_dashboard=self.webpackChunkdatamine_network_dashboard||[]).push([[7985],{7985:(a,e,n)=>{n.r(e),n.d(e,{cursorSvg:()=>o});var r,s=n(7528);const o=(0,n(443).JW)(r||(r=(0,s.A)([' <svg fill="none" viewBox="0 0 13 4">\n  <path fill="currentColor" d="M.5 0h12L8.9 3.13a3.76 3.76 0 0 1-4.8 0L.5 0Z" />\n</svg>'])))}}]);
