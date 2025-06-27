@@ -1,21 +1,21 @@
-Our smart contracts are fully open source. Datamine website is a decentralized gateway into the Datamine Ecosystem. The smart contracts on our dApp DO NOT touch your Ethereum balance and only interact with our DAM/FLUX tokens.
+# How to Connect MetaMask to the Datamine Dashboard
 
-Please ensure that you have installed and are logged into MetaMask before following the steps below.
+This guide will walk you through connecting your MetaMask wallet to the Datamine Dashboard. Ensure MetaMask is installed and you are logged in before proceeding.
 
-# Step 1
-Visit [https://datamine-crypto.github.io/realtime-decentralized-dashboard/](https://datamine-crypto.github.io/realtime-decentralized-dashboard/) (Decentralized build of Datamine dApp). Click on ["Liquidity Dashboard"](https://datamine-crypto.github.io/realtime-decentralized-dashboard/#dashboard)
+## Step 1: Access the Dashboard
+Navigate to the Datamine Dashboard. Once loaded, click on the "Liquidity Dashboard" section.
 
 ![Connecting](../../helpArticles/assets/images/pngs/connectingMetamask/connecting1.png)
 
-# Step 2
+## Step 2
 Next, connect your wallet to the Datamine platform by clicking "Connect to Wallet"
 
 ![Connecting](../../helpArticles/assets/images/pngs/connectingMetamask/connecting2.png)
 
-# Step 3
+## Step 3
 Next, allow Datamine to interact with your MetaMask wallet by clicking "Connect"
 
 ![Connecting](../../helpArticles/assets/images/pngs/connectingMetamask/connecting3.png)
 
-# Step 4
+## Step 4
 Congratulations, you are now ready to use the Datamine Ecosystem.

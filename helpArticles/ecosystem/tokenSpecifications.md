@@ -1,20 +1,35 @@
-- Datamine (DAM) is a standard ERC-777 smart contract deployed on Ethereum with a **FIXED** supply of 16,876,778 tokens
+# Datamine Network Token Specifications
 
-- FLUX is a **NON-FIXED** supply token which forms the base currency of DeFi. FLUX has linear and predictable deflation through Burning
+This article provides a detailed overview of the Datamine Network's core tokens, DAM and FLUX, and explains key concepts related to their functionality and interaction within the ecosystem.
 
-- **Mint Start/Stop**: To generate FLUX tokens you need to start a validator. Mints are powered by Datamine (DAM) tokens. A validator generates 0.00000001 FLUX per 1 DAM each ETH block (every ~13 sec)
+Here are the key concepts and token specifications:
 
-- **Delegated Minting**: When you start your validator you can specify ANOTHER Ethereum address to mint on behalf of your address. This is a core security feature of Datamine Ecosystem
+## Datamine (DAM)
+A standard ERC-777 smart contract token deployed on Ethereum with a **FIXED** supply of 16,876,778 tokens. DAM tokens are primarily used for staking to power validators.
 
-- **Remote Minting**: This feature enables you to Mint FLUX from your phone to any Ethereum address, even though the DAM may stored on your hardware wallet (e.g. Ledger)
+## FLUX
+A **NON-FIXED** supply token that serves as the base currency of the Datamine DeFi ecosystem. FLUX features linear and predictable deflation through a burning mechanism.
 
-- **Remote Burning**: You can Burn your FLUX to any other address that has an active Mint
+## Validator (Mint Start/Stop)
+To generate FLUX tokens, you must start a validator by locking your Datamine (DAM) tokens. A validator generates approximately 0.00000001 FLUX per 1 DAM per Ethereum block (roughly every 13 seconds).
 
-- **Partial Minting**: You can specify a percentage of Minting (0-100%). This allows you to Mint smaller amounts of FLUX, including partial Minting to other addresses
+## Delegated Minting
+This feature allows you to designate another Ethereum address to mint FLUX tokens on behalf of your validator. This enhances security by enabling you to keep your DAM tokens in cold storage while minting with a separate, web-based wallet.
 
-- **Mint Age Multiplier**: Once your validator is active for at least 24 hours, this multiplier will begin to increase every 12 seconds for 28 days, after which you receive a permanent 3x multiplier. You will lose this Multiplier each time you stop your validator 
+## Remote Minting
+This feature enables you to Mint FLUX from your phone to any Ethereum address, even though the DAM may stored on your hardware wallet (e.g. Ledger)
 
-- **Burn Multiplier**: This is a variable multiplier, capped at 10x. If you burn 9x the global average of burned FLUX, you receive the maximal 10x multiplier. The ratio is described as follows 
+## Remote Burning
+You can Burn your FLUX to any other address that has an active Mint
+
+## Partial Minting
+You can specify a percentage of Minting (0-100%). This allows you to Mint smaller amounts of FLUX, including partial Minting to other addresses
+
+## Mint Age Multiplier
+Once your validator is active for at least 24 hours, this multiplier will begin to increase every 12 seconds for 28 days, after which you receive a permanent 3x multiplier. You will lose this Multiplier each time you stop your validator 
+
+## Burn Multiplier
+This is a variable multiplier, capped at 10x. If you burn 9x the global average of burned FLUX, you receive the maximal 10x multiplier. The ratio is described as follows 
 
 - `(My Burned FLUX divided by DAM powering Validator)` must be 9 times greater than `(Total Burned FLUX of active Mints divided total DAM powering Validator)`
 
