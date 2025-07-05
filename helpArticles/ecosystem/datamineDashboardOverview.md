@@ -1,6 +1,6 @@
 # Datamine Dashboard Overview
 
-[The Datamine Dashboard](https://datamine-crypto.github.io/realtime-decentralized-dashboard/) is a feature-rich user interface and all-in-one realtime powerhouse of data. Get all your $DAM, $FLUX, $ETH, & $USD analytics points from on-chain data in a single place instantly. The dashboard is where you can start your validator and produce/destroy FLUX tokens.
+[The Datamine Dashboard](https://datamine-crypto.github.io/dashboard/) is a feature-rich user interface and all-in-one realtime powerhouse of data. Get all your $DAM, $FLUX, $ETH, & $USD analytics points from on-chain data in a single place instantly. The dashboard is where you can start your validator and produce/destroy FLUX tokens.
 
 ## Watch your $FLUX USD balance increase on real-time, on-chain USD multi-route Uniswap data.
 We've taken all the complications and calculations away. See your unminted FLUX tokens balance in realtime based on all your bonuses.
@@ -29,3 +29,10 @@ Here you can check your FLUX balance with ease and calculate how much FLUX you h
 Visit this section to verify the current FLUX supply and determine what percentage of minted FLUX has been burned globally. Here you will also see the global value of active mints in USD.
 
 ![Dashboard](../../helpArticles/assets/images/pngs/dashboard/dashboard5.png)
+
+## New Features: Datamine Market & Datamine Gems
+
+The Datamine Dashboard is continuously evolving to provide cutting-edge features:
+
+*   **Datamine Market:** Explore the decentralized "Time-in-market" solution, where validators can incentivize others to burn LOCK tokens to their accounts, creating a dynamic and efficient market for token burning and rewards.
+*   **Datamine Gems #GameFi:** Engage with the real-time game that transforms token burning into an interactive experience. Collect "gems" representing unminted balances, utilize atomic batch burning, and optimize your reward collection with the new V2 Public Market smart contract and the "Collect all gems" feature.
