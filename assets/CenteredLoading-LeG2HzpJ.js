@@ -1,0 +1,1 @@
+import{j as e,C as t}from"./index-CUjhtEbf.js";const r=()=>e.jsx("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"100vh",width:"100%"},children:e.jsx(t,{style:{color:"#0ff"}})});export{r as default};
