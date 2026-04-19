@@ -1,0 +1,1 @@
+var e=``+new URL(`uniswap-B3Ql5xGT.svg`,import.meta.url).href;export{e as t};

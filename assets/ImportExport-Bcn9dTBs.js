@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CSS8KlTg.js";import{b as t}from"./Typography-CI2yh7U-.js";var n=t((0,e().jsx)(`path`,{d:`M9 3 5 6.99h3V14h2V6.99h3zm7 14.01V10h-2v7.01h-3L15 21l4-3.99z`}),`ImportExport`);export{n as t};

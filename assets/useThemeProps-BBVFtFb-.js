@@ -1,0 +1,1 @@
+import{d as e,l as t}from"./defaultTheme-Br-E976c.js";function n(e){let{theme:n,name:r,props:i}=e;return!n||!n.components||!n.components[r]||!n.components[r].defaultProps?i:t(n.components[r].defaultProps,i)}function r({props:t,name:r,defaultTheme:i,themeId:a}){let o=e(i);return a&&(o=o[a]||o),n({theme:o,name:r,props:t})}export{n,r as t};
