@@ -1,0 +1,1 @@
+import{p as e}from"./Typography-DPuDzp0U.js";import{_ as t,h as n,v as r}from"./Modal-DuoRx2hw.js";function i(i){let{elementType:a,externalSlotProps:o,ownerState:s,skipResolvingSlotProps:c=!1,...l}=i,u=c?{}:t(o,s),{props:d,internalRef:f}=n({...l,externalSlotProps:u}),p=e(f,u?.ref,i.additionalProps?.ref);return r(a,{...d,ref:p},s)}export{i as t};

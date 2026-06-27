@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CIxEorsV.js";import{t}from"./CircularProgress-BIoDTkRi.js";var n=e(),r=()=>(0,n.jsx)(`div`,{style:{display:`flex`,justifyContent:`center`,alignItems:`center`,height:`100vh`,width:`100%`},children:(0,n.jsx)(t,{style:{color:`#0ff`}})});export{r as default};

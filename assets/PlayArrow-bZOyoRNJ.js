@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CIxEorsV.js";import{_ as t}from"./Typography-DPuDzp0U.js";var n=t((0,e().jsx)(`path`,{d:`M8 5v14l11-7z`}),`PlayArrow`);export{n as t};
